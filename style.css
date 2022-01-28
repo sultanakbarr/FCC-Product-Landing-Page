@@ -140,6 +140,10 @@ nav > ul > li > a:hover {
   grid-row-gap: 0px;
 }
 
+#features{
+  padding-top: 70px;
+}
+
 #features .icon {
   display: flex;
   align-items: center;
@@ -160,7 +164,7 @@ nav > ul > li > a:hover {
 }
 
 #how-it-works {
-  margin-top: 50px;
+  padding-top: 90px;
   display: flex;
   justify-content: center;
 }
